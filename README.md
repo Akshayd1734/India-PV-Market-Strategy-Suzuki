@@ -6,7 +6,7 @@ An empirical market research, powertrain transition, and regional sales-strategy
 
 ## Executive Deliverables
 * **Executive Brief (PDF):** [India_PV_Market_Strategic_Brief.pdf](./India_PV_Market_Strategic_Brief.pdf)
-* **Strategy Presentation (PPTX):** [India_Passenger_Vehicle_Market_Strategy.pptx](./India_Passenger_Vehicle_Market_Strategy.pptx)
+* **Strategy Presentation (PDF — Browser View):** [India_Passenger_Vehicle_Market_Strategy.pdf](./India_Passenger_Vehicle_Market_Strategy.pdf) | [Download PPTX](./India_Passenger_Vehicle_Market_Strategy.pptx)
 * **Cleaned Master Datasets & Raw VAHAN Data:** [`data/`](./data)
 * **Python ETL & Visualization Pipeline:** [`Suzuki_Market_research_Project.ipynb`](./scripts/Suzuki_Market_research_Project.ipynb) | [`suzuki_market_research_project.py`](./scripts/suzuki_market_research_project.py)
 
@@ -69,5 +69,6 @@ An empirical market research, powertrain transition, and regional sales-strategy
 │   ├── Suzuki_Market_research_Project.ipynb
 │   └── suzuki_market_research_project.py
 ├── India_PV_Market_Strategic_Brief.pdf
+├── India_Passenger_Vehicle_Market_Strategy.pdf
 ├── India_Passenger_Vehicle_Market_Strategy.pptx
 └── README.md
